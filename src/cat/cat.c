@@ -96,6 +96,7 @@ void output(struct Flags *flag, char *argv[], int argc) {
   }
 }
 
+
 void vflag_output(unsigned char c) {
   if (c == '\n' || c == '\t' || (c >= 32 && c < 127)) {
     printf("%c", c);
