@@ -1,0 +1,7 @@
+
+First, we need to run the “pwd” command to check the current working directory. the output will be “/var/www/html” . After this we need to list all directories in " / " folder command for this is " ls+/ ".The output will have a text file " .txt ".we can use the cat command to see the flag inside the txt file.
+command: " cat …/…/…/[name_of_text_file].txt "
+
+gsdfgs
+	ddddd
+	abc
